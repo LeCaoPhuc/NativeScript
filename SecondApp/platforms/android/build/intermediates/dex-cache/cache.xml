@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-25.3.1_933cf29424d58d1799e0ee98e72a56ca33ad7352.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="ed69cd5603304a6fc9a36a94c8be977a1d0e4857">
+        <dex dex="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_1d7111e10a8419d564f1b6e20f0f47ed38be9634.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-25.3.1_de2e60b9e36a03a6a91dc5b8d7157f4b863134f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-25.3.1_8cce2fc42f00a0d5a015bc0f8a9129c3c18ea29a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-25.3.1_5dd83ff6acd4c787e1380b91a1511564ab4403c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-25.3.1_90ffbc269108d433cda3f43cd9b6279454fab763.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-25.3.1_ed54101e8b9d3d919c2cb1ea85770ac464655288.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\exploded-aar\SecondApp\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_d344e37e470bb2eb9b377d11a30af3c769712ab7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-25.3.1_e9bea41b44cdb554e092a4def38278c19e04b73a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-25.3.1_15787ddc917443f3939809a434e1a70a914ca984.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-25.3.1_1eb8586d26fbd182235a20c334e47f81628bc06b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-25.3.1_f51ebfbdf74b4e7c3e9c95e97e1ae4b100c5404f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-25.3.1_1040b82d3fdb56aab6dc1b4ef9c00bc243a9d3c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-25.3.1_eeecdb48809434d589b62867db8d6f21c728a2bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.3.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-25.3.1_da47fbcf7b2d13b095cc079259875e695276d568.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\exploded-aar\SecondApp\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8e45d63bd91f9a51a9e6f9c96be7a01deb415690">
+        <dex dex="C:\Users\ASUS\SecondApp\platforms\android\build\intermediates\pre-dexed\F0\debug\SecondApp-runtime-unspecified_cf0993c70d37cc267cecae8f568eb2bfa3508fab.jar" />
+    </item>
+
+</items>
